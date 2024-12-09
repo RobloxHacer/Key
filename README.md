@@ -1,2 +1,1 @@
-# Key
-Get key for KRNL R
+Key: KRNL
